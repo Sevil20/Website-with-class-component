@@ -1,0 +1,22 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sevil20/TASK-1.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "men",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sevil20/TASK-1/issues"
+  },
+  "homepage": "https://github.com/Sevil20/TASK-1#readme"
+}
